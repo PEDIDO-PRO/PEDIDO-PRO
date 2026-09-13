@@ -1,0 +1,25 @@
+{
+"name": "Pedido Pro",
+"short_name": "Pedido Pro",
+"description": "Gestão de redes, lojas, produtos, pedidos, trocas, demandas e ocorrências",
+"start_url": "./index.html",
+"scope": "./",
+"display": "standalone",
+"orientation": "portrait",
+"background_color": "#fff7d1",
+"theme_color": "#ffcc00",
+"icons": [
+{
+"src": "icons/icon-192.png",
+"sizes": "192x192",
+"type": "image/png",
+"purpose": "any maskable"
+},
+{
+"src": "icons/icon-512.png",
+"sizes": "512x512",
+"type": "image/png",
+"purpose": "any maskable"
+}
+]
+}
